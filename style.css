@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.top-wrapper {
+	background-color: #e4f9f5;
+}
+span /*(inline element)*/ {
+	text-decoration: underline;
+}
+p/*(block element)*/ {
+}
